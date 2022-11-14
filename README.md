@@ -44,7 +44,7 @@ Mobile-design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-page-using-flexbox-4IsLIMQr-N](https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-page-using-flexbox-4IsLIMQr-N)
 - Live Site URL: [https://martastepaniuk.github.io/interactive-rating-component/](https://martastepaniuk.github.io/interactive-rating-component/)
 
 ## My process
