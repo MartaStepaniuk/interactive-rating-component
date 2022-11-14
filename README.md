@@ -28,16 +28,24 @@ Users should be able to:
 ### Screenshots
 
 Desktop-design
+
 ![](screenshots/Desktop-version.jpg)
 ![](screenshots/Desktop-thank-you-state.jpg)
+
 Active states
+
 ![](screenshots/Active-state-1.jpg)
 ![](screenshots/Active-state-2.jpg)
+
+Mobile-design
+
+![](screenshots/Mobile-version.jpg)
+![](screenshots/Mobile-thank-you-state.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://martastepaniuk.github.io/interactive-rating-component/](https://martastepaniuk.github.io/interactive-rating-component/)
 
 ## My process
 
