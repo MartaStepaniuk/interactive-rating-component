@@ -251,3 +251,8 @@ footer {
 .attribution {
     font-size: 11px;
 }
+
+.active-state {
+    background: hsl(216, 12%, 54%);
+    color: hsl(0, 0%, 100%);
+}
