@@ -1,11 +1,15 @@
-let design = document.getElementById('design');
-let submit = document.getElementById('submit');
-let thank_you = document.getElementById('thank_you');
-let selectedNumber = document.getElementById('selectedNumber');
-let numbers = document.querySelectorAll('.number');
+const design = document.getElementById('design');
+const submit = document.getElementById('submit');
+const thank_you = document.getElementById('thank_you');
+const selectedNumber = document.getElementById('selectedNumber');
+const numbers = document.querySelectorAll('.number');
+let selectedElement;
 numbers.forEach(number => {
     number.addEventListener('click', function () {
-        numbers.forEach(number => { number.classList.remove('active-state') });
+        if (selectedElement) {
+            selectedElement.classList.remove('active-state');
+        }
+        selectedElement = number;
         selectedNumber.innerHTML = number.innerHTML;
         number.classList.add("active-state");
     });

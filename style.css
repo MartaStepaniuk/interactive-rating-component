@@ -252,7 +252,8 @@ footer {
     font-size: 11px;
 }
 
-.active-state {
+.active-state,
+.active-state:hover {
     background: hsl(216, 12%, 54%);
     color: hsl(0, 0%, 100%);
 }
